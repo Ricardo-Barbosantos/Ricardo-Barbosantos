@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Ricardo Barbosa, sou <strong>Desenvolvedor Front-end</strong>.<br>
-  Atualmente estou estudando <strong>React, TypeScript, HTML, CSS, JavaScript (DOM e ES5+)</strong>.<br>
+  Olá! Meu nome é Ricardo Barbosa, sou <strong>Desenvolvedor Front-end</strong>.<br><br>
+  Atualmente estou estudando <strong>React, TypeScript, HTML, CSS, JavaScript (DOM e ES5+)</strong>.<br><br>
   Estou trabalhando em projetos Freelance e aprimorando minhas habilidades diariamente.
 </p>
 
