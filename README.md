@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Ricardo Santos!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Ricardo-Barbosa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Ricardo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando em Freelance<br/> Eu sou desenvolvedor Front-end</p>
